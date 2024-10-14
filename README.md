@@ -1,6 +1,5 @@
 # Leveraging Semi-Supervised Learning for Domain Adaptation: Enhancing Safety at Construction Sites through Long-Tailed Object Detection
-The implementation code of of the paper _"Leveraging Semi-Supervised Learning for Domain Adaptation: Enhancing Safety at Construction Sites through Long-Tailed Object Detection"_.
-The full end-to-end code will be released after the paper is accepted.
+The implementation code of the paper _"Leveraging Semi-Supervised Learning for Domain Adaptation: Enhancing Safety at Construction Sites through Long-Tailed Object Detection"_.
 ## Proposed Approach
 ![alt text](figures/proposed_approach.png)
 
